@@ -1,0 +1,6 @@
+{
+  "name": "Grassendale Valet",
+  "description": "Premium Mobile Car Valeting & Driveway Restoration in South Liverpool, UK. Affordable mobile interior and exterior valeting, full valets, and driveway pressure washing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
